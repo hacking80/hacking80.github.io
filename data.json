@@ -1,12 +1,11 @@
 {
-"code": "0000",
+  "code": "0000",
   "data": {
     "app_update": {
       "enabled": true,
       "type": "FLEXIBLE",
       "message": "",
-      "store_url":
-      "https://play.google.com/store/apps/details?id=com.awakesquare.app.liveking.app_awake",
-    },
-  },
+      "store_url": "https://play.google.com/store/apps/details?id=com.awakesquare.app.liveking.app_awake"
+    }
+  }
 }
