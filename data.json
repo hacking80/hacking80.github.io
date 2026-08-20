@@ -1,4 +1,5 @@
-  "code": "0000",
+{
+"code": "0000",
   "data": {
     "app_update": {
       "enabled": true,
@@ -8,3 +9,4 @@
       "https://play.google.com/store/apps/details?id=com.awakesquare.app.liveking.app_awake",
     },
   }
+}
